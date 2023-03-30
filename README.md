@@ -1,6 +1,6 @@
 ## My First Site!
 
-![preview](./.assets/siteimg.png)
+![preview](./assets/siteimg.png)
 
  My First Site!
 
